@@ -18,4 +18,5 @@
 * [15.诗中伊人](15bei-gui-nan-yan.md)
 * [16.一纸风格](16yi-zhi-feng-ge.md)
 * [17.思念堆叠](17si-nian-dui-die.md)
+* [18.寻找自我](18yi-mo-xie-yang.md)
 

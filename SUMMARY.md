@@ -25,4 +25,5 @@
 * [22.映染峦山](22ying-ran-luan-shan.md)
 * [23.洇染诗意](23feng-lin-wan-yi.md)
 * [24.以你之名](24yi-ni-zhi-ming.md)
+* [25.寻你何方](25xun-ni-he-fang.md)
 

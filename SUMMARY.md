@@ -33,4 +33,5 @@
 * [30.泪眼含沙](30lei-yan-han-sha.md)
 * [31.再次遇见](31zai-ci-yu-jian.md)
 * [32.光年之外](32guang-nian-zhi-wai.md)
+* [33.十指紧扣](33shi-zhi-jin-kou.md)
 

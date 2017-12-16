@@ -29,4 +29,6 @@
 * [26.菩提落花](26pu-ti-luo-hua.md)
 * [27.思念归尘](27si-nian-gui-chen.md)
 * [28.南柯一梦](28nan-ke-yi-meng.md)
+* [29.情深不语](29qing-shen-bu-yu.md)
+* [30.泪眼含沙](30lei-yan-han-sha.md)
 

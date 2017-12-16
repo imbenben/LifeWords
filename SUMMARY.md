@@ -32,4 +32,5 @@
 * [29.情深不语](29qing-shen-bu-yu.md)
 * [30.泪眼含沙](30lei-yan-han-sha.md)
 * [31.再次遇见](31zai-ci-yu-jian.md)
+* [32.光年之外](32guang-nian-zhi-wai.md)
 

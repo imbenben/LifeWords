@@ -28,4 +28,5 @@
 * [25.寻你何方](25xun-ni-he-fang.md)
 * [26.菩提落花](26pu-ti-luo-hua.md)
 * [27.思念归尘](27si-nian-gui-chen.md)
+* [28.南柯一梦](28nan-ke-yi-meng.md)
 

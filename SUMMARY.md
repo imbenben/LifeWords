@@ -23,4 +23,5 @@
 * [20.倾城客过](20qing-cheng-ke-guo.md)
 * [21.回忆如昨](21hui-yi-ru-zuo.md)
 * [22.映染峦山](22ying-ran-luan-shan.md)
+* [23.洇染诗意](23feng-lin-wan-yi.md)
 

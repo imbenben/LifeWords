@@ -26,4 +26,5 @@
 * [23.洇染诗意](23feng-lin-wan-yi.md)
 * [24.以你之名](24yi-ni-zhi-ming.md)
 * [25.寻你何方](25xun-ni-he-fang.md)
+* [26.菩提落花](26pu-ti-luo-hua.md)
 

@@ -43,4 +43,5 @@
 * [40.思念无备](40jin-ran-shang-bei.md)
 * [41.祖国母亲](41zu-guo-mu-qin.md)
 * [42.枯叶若蝶](42ku-xie-ruo-die.md)
+* [43.衣染清尘](43yi-ran-qing-chen.md)
 

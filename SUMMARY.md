@@ -42,4 +42,5 @@
 * [39.众里寻她](39zhong-li-xun-ta.md)
 * [40.思念无备](40jin-ran-shang-bei.md)
 * [41.祖国母亲](41zu-guo-mu-qin.md)
+* [42.枯叶若蝶](42ku-xie-ruo-die.md)
 
